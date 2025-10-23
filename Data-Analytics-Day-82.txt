@@ -1,0 +1,74 @@
+Real-World Analytics & Career Preparation
+
+🔹 Lesson 1: End-to-End Data Analytics Project Workflow
+========================================================
+Summary:
+An end-to-end project covers every stage — from raw data to insights.
+Data Collection (API, CSV, Database)
+Data Cleaning & Transformation
+EDA & Visualization
+Insights Presentation
+
+Example:
+A retail analytics project analyzing 1M+ transactions to find top-performing products and low-performing regions.
+
+Video: End-to-End Data Analytics Project (Retail) – 20 mins
+
+
+🔹 Lesson 2: KPI Identification & Business Metrics
+====================================================
+Summary:
+KPIs are measurable values showing how effectively objectives are met.
+Sales → Revenue Growth %, Conversion Rate
+Marketing → CTR, CAC, ROI
+Operations → Lead Time, Defect Rate
+
+Example:
+Swiggy’s KPIs include Delivery Time, Order Completion Rate, and Average Basket Value.
+
+Video: Defining Business KPIs for Analytics – 10 mins
+
+
+🔹 Lesson 3: Power BI / Tableau Dashboard Project
+===================================================
+Summary:
+Interactive dashboards bring insights to life.
+Use KPIs + charts (bar, pie, line, map)
+Add slicers for filtering
+Keep UI simple and storytelling-driven
+
+Example:
+Created a Power BI dashboard showing monthly revenue growth and customer churn trend.
+
+Video: Power BI Dashboard Project – 15 mins
+
+
+🔹 Lesson 4: Resume Building for Data Analytics Roles
+=======================================================
+Summary:
+Your resume should show skills + impact.
+Mention tools (Python, SQL, Excel, Power BI)
+Add measurable results (“Reduced reporting time by 30%”)
+Include GitHub & LinkedIn portfolio links
+
+Example:
+“Built a Sales Dashboard in Power BI analyzing 50K+ transactions — improved decision speed by 40%.”
+
+Video: Data Analyst Resume Tips – 12 mins
+
+
+🔹 Lesson 5: Mock Interview Prep (Technical + HR)
+==================================================
+Summary:
+Practice typical data analyst questions:
+SQL: “Find 2nd highest salary”
+Excel: “How to use VLOOKUP?”
+Power BI: “Explain DAX function example.”
+HR: “Tell me about a project you’re proud of.”
+
+Example:
+Prepare using real datasets + showcase in GitHub portfolio.
+
+Video: Data Analyst Mock Interview – 20 mins
+
+
